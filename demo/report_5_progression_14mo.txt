@@ -1,0 +1,79 @@
+RADIOLOGY REPORT
+
+Patient Name: [REDACTED]
+MRN: [REDACTED]
+Date of Exam: January 30, 2025
+Exam: CT CHEST, ABDOMEN, AND PELVIS WITH IV CONTRAST
+
+CLINICAL HISTORY: 63-year-old male with stage IV non-small cell lung cancer (adenocarcinoma), on maintenance pemetrexed therapy. Increased cough and dyspnea. Evaluate for disease progression.
+
+TECHNIQUE: Axial CT images of the chest, abdomen, and pelvis were obtained following administration of intravenous contrast material. Multiplanar reconstructions were performed.
+
+COMPARISON: August 28, 2024
+
+FINDINGS:
+
+LUNGS:
+The right upper lobe mass has increased in size, now measuring 2.6 x 2.3 cm (previously 1.8 x 1.5 cm), representing a 44% increase in longest diameter. Increased spiculation and more pronounced pleural retraction. The left lower lobe nodule has increased to 0.7 cm (previously 0.3 cm). Multiple new pulmonary nodules are now identified in both lungs, the largest measuring 0.8 cm in the right middle lobe. New moderate right pleural effusion, measuring approximately 3.5 cm in maximum depth. Small left pleural effusion is also new, measuring 1.2 cm.
+
+MEDIASTINUM:
+Right paratracheal lymph node has enlarged to 2.1 x 1.5 cm (previously 1.0 x 0.7 cm). Subcarinal lymph node now measures 1.8 x 1.3 cm (previously 0.9 x 0.6 cm). New left hilar lymph node measures 1.4 x 1.0 cm. New small pericardial effusion.
+
+LIVER:
+Two new hypoattenuating lesions are identified in the liver. The larger lesion in segment VII measures 2.1 x 1.8 cm, and a second lesion in segment V measures 1.3 cm. Both demonstrate peripheral enhancement with central hypoattenuation, concerning for metastases.
+
+GALLBLADDER:
+Unremarkable without stones or wall thickening.
+
+SPLEEN:
+Normal in size and enhancement pattern. No focal lesions.
+
+ADRENALS:
+The right adrenal nodule has increased significantly to 2.3 cm (previously 1.0 cm). Left adrenal gland demonstrates a new 1.1 cm nodule.
+
+PANCREAS:
+Normal size and enhancement. No pancreatic ductal dilatation or peripancreatic fluid.
+
+KIDNEYS:
+Both kidneys enhance symmetrically without hydronephrosis, masses, or stones.
+
+MESENTERIC VESSELS:
+Patent without evidence of aneurysm or dissection.
+
+BOWEL:
+Non-distended bowel loops without wall thickening or obstruction.
+
+REPRODUCTIVE:
+Prostate is normal in size for age.
+
+URINARY:
+Bladder is partially distended and unremarkable.
+
+OTHER:
+Moderate ascites is now present, new from prior.
+
+LYMPH NODES:
+New enlarged retroperitoneal lymph nodes, the largest in the para-aortic region measuring 1.6 x 1.2 cm.
+
+BONES AND SOFT TISSUES:
+New sclerotic lesion in the T8 vertebral body, concerning for osseous metastasis. Stable mild degenerative changes elsewhere in the spine.
+
+IMPRESSION:
+1. Significant disease progression with 44% increase in the right upper lobe primary mass and increased left lower lobe nodule.
+2. Multiple new pulmonary nodules consistent with progressive intrapulmonary metastases.
+3. New moderate right and small left pleural effusions.
+4. Markedly enlarged mediastinal and hilar lymph nodes, consistent with progressive nodal disease.
+5. New hepatic metastases (2 lesions, largest 2.1 cm).
+6. Progression of right adrenal metastasis and new left adrenal metastasis.
+7. New osseous metastasis in T8 vertebra.
+8. New peritoneal disease with ascites and new retroperitoneal lymphadenopathy.
+9. New pericardial effusion.
+
+Overall: Progressive disease involving multiple organ systems with new distant metastases.
+
+RECOMMENDATION: Urgent oncology consultation for change in systemic therapy. Consider molecular profiling for targeted therapy options. Palliative care consultation may be beneficial given extent of disease progression.
+
+Electronically signed by:
+[Radiologist Name], MD
+Board Certified in Diagnostic Radiology
+Date/Time: January 30, 2025 17:03

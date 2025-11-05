@@ -1,0 +1,72 @@
+RADIOLOGY REPORT
+
+Patient Name: [REDACTED]
+MRN: [REDACTED]
+Date of Exam: March 18, 2024
+Exam: CT CHEST, ABDOMEN, AND PELVIS WITH IV CONTRAST
+
+CLINICAL HISTORY: 62-year-old male with stage IV non-small cell lung cancer (adenocarcinoma), status post 2 cycles of carboplatin and pemetrexed. Restaging study.
+
+TECHNIQUE: Axial CT images of the chest, abdomen, and pelvis were obtained following administration of intravenous contrast material. Multiplanar reconstructions were performed.
+
+COMPARISON: January 15, 2024
+
+FINDINGS:
+
+LUNGS:
+The right upper lobe mass has decreased in size, now measuring 2.4 x 2.0 cm (previously 3.2 x 2.8 cm), representing a 25% reduction in longest diameter. Persistent spiculation and pleural retraction. The previously identified pulmonary nodules have decreased in size, with the largest in the left lower lobe now measuring 0.4 cm (previously 0.6 cm). Several nodules are no longer definitively visualized. Right pleural effusion has resolved.
+
+MEDIASTINUM:
+Right paratracheal lymph node has decreased to 1.3 x 0.9 cm (previously 1.8 x 1.2 cm). Subcarinal lymph node now measures 1.2 x 0.8 cm (previously 1.5 x 1.0 cm). No pericardial effusion.
+
+LIVER:
+The liver demonstrates homogeneous enhancement without focal lesions. No intrahepatic biliary ductal dilatation.
+
+GALLBLADDER:
+Unremarkable without stones or wall thickening.
+
+SPLEEN:
+Normal in size and enhancement pattern. No focal lesions.
+
+ADRENALS:
+The right adrenal nodule is stable in size at 1.2 cm with similar enhancement characteristics. Left adrenal gland remains normal.
+
+PANCREAS:
+Normal size and enhancement. No pancreatic ductal dilatation or peripancreatic fluid.
+
+KIDNEYS:
+Both kidneys enhance symmetrically without hydronephrosis, masses, or stones.
+
+MESENTERIC VESSELS:
+Patent without evidence of aneurysm or dissection.
+
+BOWEL:
+Non-distended bowel loops without wall thickening or obstruction.
+
+REPRODUCTIVE:
+Prostate is normal in size for age.
+
+URINARY:
+Bladder is partially distended and unremarkable.
+
+OTHER:
+No free air or fluid in the abdomen or pelvis.
+
+LYMPH NODES:
+Small retroperitoneal lymph nodes, stable and not pathologically enlarged.
+
+BONES AND SOFT TISSUES:
+No suspicious lytic or blastic osseous lesions. Stable mild degenerative changes of the thoracic and lumbar spine.
+
+IMPRESSION:
+1. Partial response to chemotherapy with 25% reduction in the right upper lobe primary mass and decreased size of pulmonary nodules.
+2. Decreased size of mediastinal lymph nodes, consistent with treatment response.
+3. Resolution of right pleural effusion.
+4. Stable right adrenal nodule, likely representing metastasis given overall tumor response elsewhere.
+
+RECOMMENDATION: Continue current chemotherapy regimen. Repeat staging CT in 2 months.
+
+Electronically signed by:
+[Radiologist Name], MD
+Board Certified in Diagnostic Radiology
+Date/Time: March 18, 2024 15:18

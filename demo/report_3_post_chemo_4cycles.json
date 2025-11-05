@@ -1,0 +1,175 @@
+{
+  "report_metadata": {
+    "report_id": "RPT-003",
+    "exam_date": "2024-05-22",
+    "exam_type": "CT Chest, Abdomen, and Pelvis with IV Contrast",
+    "comparison": "2024-03-18",
+    "clinical_context": "Restaging after 4 cycles carboplatin/pemetrexed",
+    "interval_days": 65
+  },
+  "patient_info": {
+    "age": 62,
+    "sex": "M",
+    "clinical_history": "Stage IV NSCLC (adenocarcinoma), on chemotherapy"
+  },
+  "lesions": [
+    {
+      "lesion_id": "L001",
+      "location": "Right upper lobe, anterior segment",
+      "type": "Primary mass",
+      "measurements": {
+        "max_diameter_cm": 1.8,
+        "perpendicular_diameter_cm": 1.5,
+        "volume_cm3": 3.8
+      },
+      "characteristics": "Spiculated, less pleural retraction",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -25.0,
+        "absolute_change_cm": -0.6,
+        "response": "Partial response"
+      },
+      "change_from_baseline": {
+        "percent_change": -43.8,
+        "absolute_change_cm": -1.4,
+        "response": "Major partial response"
+      }
+    },
+    {
+      "lesion_id": "L002",
+      "location": "Left lower lobe, lateral basal segment",
+      "type": "Pulmonary nodule",
+      "measurements": {
+        "max_diameter_cm": 0.3
+      },
+      "characteristics": "Solid nodule",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -25.0,
+        "absolute_change_cm": -0.1,
+        "response": "Decreased"
+      },
+      "change_from_baseline": {
+        "percent_change": -50.0,
+        "absolute_change_cm": -0.3,
+        "response": "Significant decrease"
+      }
+    },
+    {
+      "lesion_id": "L003",
+      "location": "Right lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.0,
+        "count": "None visualized"
+      },
+      "characteristics": "No longer visualized",
+      "status": "Resolved",
+      "change_from_prior": {
+        "response": "Complete resolution"
+      }
+    },
+    {
+      "lesion_id": "L004",
+      "location": "Left lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.0,
+        "count": "None visualized except L002"
+      },
+      "characteristics": "No longer visualized",
+      "status": "Resolved",
+      "change_from_prior": {
+        "response": "Complete resolution"
+      }
+    },
+    {
+      "lesion_id": "L005",
+      "location": "Right paratracheal (station 4R)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.0,
+        "short_axis_cm": 0.7
+      },
+      "characteristics": "Continued decrease",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -23.1,
+        "absolute_change_cm": -0.3,
+        "response": "Decreased"
+      },
+      "change_from_baseline": {
+        "percent_change": -44.4,
+        "absolute_change_cm": -0.8,
+        "response": "Major decrease"
+      }
+    },
+    {
+      "lesion_id": "L006",
+      "location": "Subcarinal (station 7)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 0.9,
+        "short_axis_cm": 0.6
+      },
+      "characteristics": "Normal size",
+      "status": "Normalized",
+      "change_from_prior": {
+        "percent_change": -25.0,
+        "absolute_change_cm": -0.3,
+        "response": "Normalized"
+      },
+      "change_from_baseline": {
+        "percent_change": -40.0,
+        "absolute_change_cm": -0.6,
+        "response": "Normalized to normal size"
+      }
+    },
+    {
+      "lesion_id": "L007",
+      "location": "Right adrenal gland",
+      "type": "Adrenal nodule",
+      "measurements": {
+        "max_diameter_cm": 1.0
+      },
+      "characteristics": "Slight decrease",
+      "hounsfield_units": {
+        "pre_contrast": 33,
+        "post_contrast": 64
+      },
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -16.7,
+        "absolute_change_cm": -0.2,
+        "response": "Slight decrease"
+      },
+      "change_from_baseline": {
+        "percent_change": -16.7,
+        "absolute_change_cm": -0.2,
+        "response": "Responding metastasis"
+      }
+    },
+    {
+      "lesion_id": "L008",
+      "location": "Right pleural space",
+      "type": "Pleural effusion",
+      "measurements": {
+        "max_depth_cm": 0.0
+      },
+      "characteristics": "Resolved",
+      "status": "Resolved",
+      "change_from_prior": {
+        "response": "Continued resolution"
+      }
+    }
+  ],
+  "response_assessment": {
+    "overall_response": "Partial Response (PR)",
+    "recist_criteria": {
+      "target_lesions_change": -43.8,
+      "new_lesions": false,
+      "non_target_progression": false
+    },
+    "clinical_notes": "Excellent response to therapy, nearing complete response"
+  }
+}

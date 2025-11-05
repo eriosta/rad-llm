@@ -1,0 +1,112 @@
+{
+  "report_metadata": {
+    "report_id": "RPT-001",
+    "exam_date": "2024-01-15",
+    "exam_type": "CT Chest, Abdomen, and Pelvis with IV Contrast",
+    "comparison": "None",
+    "clinical_context": "Baseline staging study"
+  },
+  "patient_info": {
+    "age": 62,
+    "sex": "M",
+    "clinical_history": "Persistent cough and weight loss"
+  },
+  "lesions": [
+    {
+      "lesion_id": "L001",
+      "location": "Right upper lobe, anterior segment",
+      "type": "Primary mass",
+      "measurements": {
+        "max_diameter_cm": 3.2,
+        "perpendicular_diameter_cm": 2.8,
+        "volume_cm3": 15.2
+      },
+      "characteristics": "Spiculated with pleural retraction",
+      "status": "New"
+    },
+    {
+      "lesion_id": "L002",
+      "location": "Left lower lobe, lateral basal segment",
+      "type": "Pulmonary nodule",
+      "measurements": {
+        "max_diameter_cm": 0.6
+      },
+      "characteristics": "Solid nodule",
+      "status": "New"
+    },
+    {
+      "lesion_id": "L003",
+      "location": "Right lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.4,
+        "count": "Multiple < 0.5 cm"
+      },
+      "characteristics": "Multiple small nodules",
+      "status": "New"
+    },
+    {
+      "lesion_id": "L004",
+      "location": "Left lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.5,
+        "count": "Multiple < 0.5 cm"
+      },
+      "characteristics": "Multiple small nodules",
+      "status": "New"
+    },
+    {
+      "lesion_id": "L005",
+      "location": "Right paratracheal (station 4R)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.8,
+        "short_axis_cm": 1.2
+      },
+      "characteristics": "Enlarged",
+      "status": "New"
+    },
+    {
+      "lesion_id": "L006",
+      "location": "Subcarinal (station 7)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.5,
+        "short_axis_cm": 1.0
+      },
+      "characteristics": "Borderline enlarged",
+      "status": "New"
+    },
+    {
+      "lesion_id": "L007",
+      "location": "Right adrenal gland",
+      "type": "Adrenal nodule",
+      "measurements": {
+        "max_diameter_cm": 1.2
+      },
+      "characteristics": "Heterogeneous enhancement, indeterminate",
+      "hounsfield_units": {
+        "pre_contrast": 35,
+        "post_contrast": 68
+      },
+      "status": "New"
+    },
+    {
+      "lesion_id": "L008",
+      "location": "Right pleural space",
+      "type": "Pleural effusion",
+      "measurements": {
+        "max_depth_cm": 1.5
+      },
+      "characteristics": "Small effusion",
+      "status": "New"
+    }
+  ],
+  "staging_summary": {
+    "primary_tumor": "T2b (3.2 cm)",
+    "nodes": "N2 (ipsilateral mediastinal)",
+    "metastases": "M1a/M1b (pulmonary nodules, possible adrenal metastasis)",
+    "provisional_stage": "Stage IV"
+  }
+}

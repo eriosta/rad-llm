@@ -1,0 +1,260 @@
+COMPREHENSIVE LESION TRAJECTORY ANALYSIS
+Patient with Stage IV Non-Small Cell Lung Cancer (Adenocarcinoma)
+Tracking Period: January 15, 2024 - January 30, 2025 (14 months)
+
+================================================================================
+TIMELINE OF SCANS
+================================================================================
+RPT-001: 2024-01-15 - Baseline (pre-treatment)
+RPT-002: 2024-03-18 - Post 2 cycles chemotherapy (+63 days)
+RPT-003: 2024-05-22 - Post 4 cycles chemotherapy (+128 days from baseline)
+RPT-004: 2024-08-28 - Maintenance therapy (+226 days from baseline)
+RPT-005: 2025-01-30 - Disease progression (+381 days from baseline)
+
+================================================================================
+LESION TRAJECTORY BY SITE
+================================================================================
+
+PRIMARY TUMOR
+-------------
+Lesion ID: L001
+Location: Right upper lobe, anterior segment
+Type: Primary adenocarcinoma
+
+Measurements (max diameter in cm):
+RPT-001 (Baseline):    3.2 cm - Spiculated with pleural retraction
+RPT-002 (+63 days):    2.4 cm - Decreased 25% (Partial Response)
+RPT-003 (+128 days):   1.8 cm - Decreased 44% from baseline (Major PR)
+RPT-004 (+226 days):   1.8 cm - Stable (Sustained response)
+RPT-005 (+381 days):   2.6 cm - Increased 44% from prior (Progressive Disease)
+
+Clinical Notes: Initial excellent response to chemotherapy with 44% reduction.
+Maintained stability for 3 months on maintenance therapy, then significant
+progression.
+
+PULMONARY METASTASES
+--------------------
+Lesion ID: L002
+Location: Left lower lobe, lateral basal segment
+
+Measurements:
+RPT-001: 0.6 cm - Solid nodule
+RPT-002: 0.4 cm - Decreased 33%
+RPT-003: 0.3 cm - Decreased 50% from baseline
+RPT-004: 0.3 cm - Stable
+RPT-005: 0.7 cm - Increased 133% from prior, now larger than baseline
+
+---
+
+Lesion IDs: L003, L004
+Location: Multiple bilateral pulmonary nodules
+
+Evolution:
+RPT-001: Multiple small nodules (< 0.5 cm) in both lungs
+RPT-002: Decreased in size and number
+RPT-003: Complete resolution (no longer visualized)
+RPT-004: Remained resolved
+RPT-005: Multiple new nodules reappeared bilaterally
+
+---
+
+Lesion ID: L010 (NEW)
+Location: Right middle lobe
+RPT-005: 0.8 cm - New pulmonary metastasis
+
+MEDIASTINAL LYMPH NODES
+------------------------
+Lesion ID: L005
+Location: Right paratracheal (Station 4R)
+
+Measurements (long axis x short axis in cm):
+RPT-001: 1.8 x 1.2 cm (short axis 1.2 cm - ENLARGED)
+RPT-002: 1.3 x 0.9 cm (decreased 28%)
+RPT-003: 1.0 x 0.7 cm (decreased 44% from baseline)
+RPT-004: 1.0 x 0.7 cm (stable)
+RPT-005: 2.1 x 1.5 cm (increased 110% from prior, approaching baseline)
+
+---
+
+Lesion ID: L006
+Location: Subcarinal (Station 7)
+
+Measurements:
+RPT-001: 1.5 x 1.0 cm (borderline enlarged)
+RPT-002: 1.2 x 0.8 cm (decreased)
+RPT-003: 0.9 x 0.6 cm (normalized to normal size)
+RPT-004: 0.9 x 0.6 cm (stable)
+RPT-005: 1.8 x 1.3 cm (increased 100%, now larger than baseline)
+
+---
+
+Lesion ID: L011 (NEW)
+Location: Left hilum (Station 10L)
+RPT-005: 1.4 x 1.0 cm - New nodal disease
+
+ADRENAL METASTASES
+------------------
+Lesion ID: L007
+Location: Right adrenal gland
+
+Measurements:
+RPT-001: 1.2 cm - Indeterminate nodule
+RPT-002: 1.2 cm - Stable (likely metastasis)
+RPT-003: 1.0 cm - Slight decrease (responding)
+RPT-004: 1.0 cm - Stable (controlled)
+RPT-005: 2.3 cm - Increased 130%, significantly enlarged
+
+---
+
+Lesion ID: L014 (NEW)
+Location: Left adrenal gland
+RPT-005: 1.1 cm - New adrenal metastasis
+
+PLEURAL EFFUSIONS
+-----------------
+Lesion ID: L008
+Location: Right pleural space
+
+Evolution:
+RPT-001: 1.5 cm depth - Small effusion
+RPT-002: Resolved
+RPT-003: Remained resolved
+RPT-004: Remained resolved
+RPT-005: 3.5 cm depth - Recurred, now moderate (worse than baseline)
+
+---
+
+Lesion ID: L009 (NEW)
+Location: Left pleural space
+RPT-005: 1.2 cm depth - New small effusion
+
+HEPATIC METASTASES (NEW SITE)
+------------------------------
+Lesion ID: L012 (NEW)
+Location: Liver segment VII
+RPT-005: 2.1 x 1.8 cm - New liver metastasis
+
+---
+
+Lesion ID: L013 (NEW)
+Location: Liver segment V
+RPT-005: 1.3 cm - New liver metastasis
+
+OSSEOUS METASTASES (NEW SITE)
+------------------------------
+Lesion ID: L015 (NEW)
+Location: T8 vertebral body
+RPT-005: Sclerotic lesion - New bone metastasis
+
+RETROPERITONEAL NODES (NEW SITE)
+---------------------------------
+Lesion ID: L016 (NEW)
+Location: Para-aortic region
+RPT-005: 1.6 x 1.2 cm - New retroperitoneal adenopathy
+
+PERITONEAL DISEASE (NEW SITE)
+------------------------------
+Lesion ID: L017 (NEW)
+Location: Peritoneal cavity
+RPT-005: Moderate ascites - New peritoneal involvement
+
+PERICARDIAL EFFUSION (NEW)
+---------------------------
+Lesion ID: L018 (NEW)
+Location: Pericardial space
+RPT-005: Small effusion - New finding
+
+================================================================================
+RESPONSE SUMMARY BY TIMEPOINT
+================================================================================
+
+BASELINE (RPT-001): Initial staging
+- Primary tumor: 3.2 cm
+- Multiple bilateral pulmonary nodules
+- Mediastinal lymphadenopathy
+- Right adrenal nodule (indeterminate)
+- Small right pleural effusion
+- Provisional Stage: IV (T2bN2M1b)
+
+POST 2 CYCLES CHEMO (RPT-002): Partial Response
+- Primary tumor: 25% decrease
+- Pulmonary nodules: decreased
+- Lymph nodes: decreased
+- Pleural effusion: resolved
+- Overall: Excellent response
+
+POST 4 CYCLES CHEMO (RPT-003): Continued Partial Response
+- Primary tumor: 44% decrease from baseline
+- Pulmonary nodules: near complete resolution
+- Lymph nodes: continued decrease
+- Overall: Major response, nearing complete response
+
+MAINTENANCE THERAPY (RPT-004): Stable Disease
+- All lesions stable
+- No new lesions
+- Excellent disease control maintained
+
+PROGRESSION (RPT-005): Progressive Disease
+- Primary tumor: 44% increase from prior scan
+- New pulmonary nodules throughout both lungs
+- Marked increase in lymph node sizes
+- NEW SITES OF METASTASES:
+  * Liver (2 lesions)
+  * Bone (T8 vertebra)
+  * Left adrenal
+  * Peritoneum (ascites)
+  * Pericardial effusion
+- Right adrenal: 130% increase
+- Bilateral pleural effusions recurred
+- Overall: Significant multi-system progression
+
+================================================================================
+TREATMENT TIMELINE AND OUTCOMES
+================================================================================
+
+Phase 1: Induction Chemotherapy (Jan-May 2024)
+- Regimen: Carboplatin + Pemetrexed x 4 cycles
+- Outcome: Excellent partial response (44% tumor reduction)
+
+Phase 2: Maintenance Therapy (May-Jan 2024-2025)
+- Regimen: Pemetrexed monotherapy
+- Duration: ~8 months of disease control
+- Outcome: Initial stability, then progression
+
+Phase 3: Progressive Disease (Jan 2025)
+- Status: Multi-system progression with new distant metastases
+- Next steps: Change systemic therapy, molecular profiling, palliative care
+
+================================================================================
+KEY CLINICAL MILESTONES
+================================================================================
+
+✓ Day 0: Diagnosis of Stage IV NSCLC (adenocarcinoma)
+✓ Day 63: Partial response to chemotherapy (25% reduction)
+✓ Day 128: Major partial response (44% reduction from baseline)
+✓ Day 226: Stable disease on maintenance therapy
+✗ Day 381: Progressive disease with new distant metastases
+
+Total duration of disease control: ~11 months
+Progression-free survival: ~11 months
+
+================================================================================
+LESION COUNT SUMMARY
+================================================================================
+
+                    Baseline  2-Cycles  4-Cycles  Maintenance  Progression
+Primary Tumor          1         1         1          1            1
+Pulmonary Mets        Multiple   Few      1-2        1-2         Multiple
+Mediastinal LN         2         2         2          2            3
+Liver Mets            0         0         0          0            2
+Adrenal Mets          1         1         1          1            2
+Bone Mets             0         0         0          0            1
+Pleural Effusion      R only    None     None       None         Bilateral
+Ascites               None      None     None       None         Present
+Pericardial Eff.      None      None     None       None         Present
+
+Total Active Lesions:  ~8        ~6        ~5         ~5          ~18
+
+================================================================================
+END OF TRAJECTORY ANALYSIS
+================================================================================

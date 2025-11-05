@@ -1,0 +1,324 @@
+{
+  "report_metadata": {
+    "report_id": "RPT-005",
+    "exam_date": "2025-01-30",
+    "exam_type": "CT Chest, Abdomen, and Pelvis with IV Contrast",
+    "comparison": "2024-08-28",
+    "clinical_context": "Symptomatic progression on maintenance therapy",
+    "interval_days": 155
+  },
+  "patient_info": {
+    "age": 63,
+    "sex": "M",
+    "clinical_history": "Stage IV NSCLC (adenocarcinoma), increased cough and dyspnea"
+  },
+  "lesions": [
+    {
+      "lesion_id": "L001",
+      "location": "Right upper lobe, anterior segment",
+      "type": "Primary mass",
+      "measurements": {
+        "max_diameter_cm": 2.6,
+        "perpendicular_diameter_cm": 2.3,
+        "volume_cm3": 11.2
+      },
+      "characteristics": "Increased spiculation, pronounced pleural retraction",
+      "status": "Increased",
+      "change_from_prior": {
+        "percent_change": 44.4,
+        "absolute_change_cm": 0.8,
+        "response": "Progressive disease"
+      },
+      "change_from_baseline": {
+        "percent_change": -18.8,
+        "absolute_change_cm": -0.6,
+        "response": "Still smaller than baseline but progressing"
+      }
+    },
+    {
+      "lesion_id": "L002",
+      "location": "Left lower lobe, lateral basal segment",
+      "type": "Pulmonary nodule",
+      "measurements": {
+        "max_diameter_cm": 0.7
+      },
+      "characteristics": "Solid nodule, increased",
+      "status": "Increased",
+      "change_from_prior": {
+        "percent_change": 133.3,
+        "absolute_change_cm": 0.4,
+        "response": "Progressive disease"
+      },
+      "change_from_baseline": {
+        "percent_change": 16.7,
+        "absolute_change_cm": 0.1,
+        "response": "Now larger than baseline"
+      }
+    },
+    {
+      "lesion_id": "L003",
+      "location": "Right lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.5,
+        "count": "Multiple new nodules"
+      },
+      "characteristics": "New nodules throughout right lung",
+      "status": "New/Progressed",
+      "change_from_prior": {
+        "response": "New progressive disease"
+      }
+    },
+    {
+      "lesion_id": "L004",
+      "location": "Left lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.6,
+        "count": "Multiple new nodules"
+      },
+      "characteristics": "New nodules throughout left lung",
+      "status": "New/Progressed",
+      "change_from_prior": {
+        "response": "New progressive disease"
+      }
+    },
+    {
+      "lesion_id": "L005",
+      "location": "Right paratracheal (station 4R)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 2.1,
+        "short_axis_cm": 1.5
+      },
+      "characteristics": "Markedly enlarged",
+      "status": "Increased",
+      "change_from_prior": {
+        "percent_change": 110.0,
+        "absolute_change_cm": 1.1,
+        "response": "Progressive disease"
+      },
+      "change_from_baseline": {
+        "percent_change": 16.7,
+        "absolute_change_cm": 0.3,
+        "response": "Approaching baseline size"
+      }
+    },
+    {
+      "lesion_id": "L006",
+      "location": "Subcarinal (station 7)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.8,
+        "short_axis_cm": 1.3
+      },
+      "characteristics": "Markedly enlarged",
+      "status": "Increased",
+      "change_from_prior": {
+        "percent_change": 100.0,
+        "absolute_change_cm": 0.9,
+        "response": "Progressive disease"
+      },
+      "change_from_baseline": {
+        "percent_change": 20.0,
+        "absolute_change_cm": 0.3,
+        "response": "Larger than baseline"
+      }
+    },
+    {
+      "lesion_id": "L007",
+      "location": "Right adrenal gland",
+      "type": "Adrenal nodule",
+      "measurements": {
+        "max_diameter_cm": 2.3
+      },
+      "characteristics": "Significantly enlarged",
+      "hounsfield_units": {
+        "pre_contrast": 38,
+        "post_contrast": 72
+      },
+      "status": "Increased",
+      "change_from_prior": {
+        "percent_change": 130.0,
+        "absolute_change_cm": 1.3,
+        "response": "Progressive disease"
+      },
+      "change_from_baseline": {
+        "percent_change": 91.7,
+        "absolute_change_cm": 1.1,
+        "response": "Significantly larger than baseline"
+      }
+    },
+    {
+      "lesion_id": "L008",
+      "location": "Right pleural space",
+      "type": "Pleural effusion",
+      "measurements": {
+        "max_depth_cm": 3.5
+      },
+      "characteristics": "Moderate effusion",
+      "status": "Recurred",
+      "change_from_prior": {
+        "response": "New recurrence, worse than baseline"
+      }
+    },
+    {
+      "lesion_id": "L009",
+      "location": "Left pleural space",
+      "type": "Pleural effusion",
+      "measurements": {
+        "max_depth_cm": 1.2
+      },
+      "characteristics": "Small effusion",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New finding"
+      }
+    },
+    {
+      "lesion_id": "L010",
+      "location": "Right middle lobe",
+      "type": "Pulmonary nodule",
+      "measurements": {
+        "max_diameter_cm": 0.8
+      },
+      "characteristics": "Largest new pulmonary nodule",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New metastasis"
+      }
+    },
+    {
+      "lesion_id": "L011",
+      "location": "Left hilum (station 10L)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.4,
+        "short_axis_cm": 1.0
+      },
+      "characteristics": "New enlarged lymph node",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New nodal disease"
+      }
+    },
+    {
+      "lesion_id": "L012",
+      "location": "Liver segment VII",
+      "type": "Hepatic metastasis",
+      "measurements": {
+        "max_diameter_cm": 2.1,
+        "perpendicular_diameter_cm": 1.8
+      },
+      "characteristics": "Hypoattenuating with peripheral enhancement",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New distant metastasis"
+      }
+    },
+    {
+      "lesion_id": "L013",
+      "location": "Liver segment V",
+      "type": "Hepatic metastasis",
+      "measurements": {
+        "max_diameter_cm": 1.3
+      },
+      "characteristics": "Hypoattenuating with peripheral enhancement",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New distant metastasis"
+      }
+    },
+    {
+      "lesion_id": "L014",
+      "location": "Left adrenal gland",
+      "type": "Adrenal metastasis",
+      "measurements": {
+        "max_diameter_cm": 1.1
+      },
+      "characteristics": "New adrenal nodule",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New metastasis"
+      }
+    },
+    {
+      "lesion_id": "L015",
+      "location": "T8 vertebral body",
+      "type": "Osseous metastasis",
+      "measurements": {
+        "description": "Sclerotic lesion"
+      },
+      "characteristics": "New sclerotic osseous lesion",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New bone metastasis"
+      }
+    },
+    {
+      "lesion_id": "L016",
+      "location": "Para-aortic region",
+      "type": "Retroperitoneal lymph node",
+      "measurements": {
+        "long_axis_cm": 1.6,
+        "short_axis_cm": 1.2
+      },
+      "characteristics": "New enlarged retroperitoneal node",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New nodal disease"
+      }
+    },
+    {
+      "lesion_id": "L017",
+      "location": "Peritoneal cavity",
+      "type": "Ascites",
+      "measurements": {
+        "volume": "Moderate"
+      },
+      "characteristics": "New ascites",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New peritoneal involvement"
+      }
+    },
+    {
+      "lesion_id": "L018",
+      "location": "Pericardial space",
+      "type": "Pericardial effusion",
+      "measurements": {
+        "volume": "Small"
+      },
+      "characteristics": "New pericardial effusion",
+      "status": "New",
+      "change_from_prior": {
+        "response": "New finding"
+      }
+    }
+  ],
+  "response_assessment": {
+    "overall_response": "Progressive Disease (PD)",
+    "recist_criteria": {
+      "target_lesions_change": 44.4,
+      "new_lesions": true,
+      "new_lesion_sites": [
+        "Liver",
+        "Bone",
+        "Left adrenal",
+        "Peritoneum",
+        "Multiple new pulmonary nodules"
+      ],
+      "non_target_progression": true
+    },
+    "clinical_notes": "Significant multi-system progression with new distant metastases. Requires urgent change in therapy."
+  },
+  "treatment_recommendations": {
+    "immediate_actions": [
+      "Urgent oncology consultation",
+      "Consider molecular profiling (EGFR, ALK, ROS1, PD-L1)",
+      "Evaluate for targeted therapy or immunotherapy",
+      "Palliative care consultation",
+      "Consider thoracentesis for symptomatic pleural effusion"
+    ]
+  }
+}

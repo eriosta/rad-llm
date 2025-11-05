@@ -1,0 +1,72 @@
+RADIOLOGY REPORT
+
+Patient Name: [REDACTED]
+MRN: [REDACTED]
+Date of Exam: January 15, 2024
+Exam: CT CHEST, ABDOMEN, AND PELVIS WITH IV CONTRAST
+
+CLINICAL HISTORY: 62-year-old male with persistent cough and weight loss. Evaluate for malignancy.
+
+TECHNIQUE: Axial CT images of the chest, abdomen, and pelvis were obtained following administration of intravenous contrast material. Multiplanar reconstructions were performed.
+
+COMPARISON: None available.
+
+FINDINGS:
+
+LUNGS:
+A spiculated mass measuring 3.2 x 2.8 cm is identified in the right upper lobe (RUL), anterior segment, with associated pleural retraction. Multiple small nodules are present in both lungs, the largest measuring 0.6 cm in the left lower lobe (LLL) lateral basal segment. No cavitation is seen. Small right pleural effusion is present, measuring approximately 1.5 cm in maximum depth.
+
+MEDIASTINUM:
+Enlarged right paratracheal lymph node measuring 1.8 x 1.2 cm (short axis 1.2 cm). Subcarinal lymph node measures 1.5 x 1.0 cm (short axis 1.0 cm). No pericardial effusion. Heart size is normal.
+
+LIVER:
+The liver demonstrates homogeneous enhancement without focal lesions. No intrahepatic biliary ductal dilatation.
+
+GALLBLADDER:
+Unremarkable without stones or wall thickening.
+
+SPLEEN:
+Normal in size and enhancement pattern. No focal lesions.
+
+ADRENALS:
+The right adrenal gland demonstrates a 1.2 cm nodule with heterogeneous enhancement (HU 35 pre-contrast, HU 68 post-contrast). Left adrenal gland is normal in appearance.
+
+PANCREAS:
+Normal size and enhancement. No pancreatic ductal dilatation or peripancreatic fluid.
+
+KIDNEYS:
+Both kidneys enhance symmetrically without hydronephrosis, masses, or stones.
+
+MESENTERIC VESSELS:
+Patent without evidence of aneurysm or dissection.
+
+BOWEL:
+Non-distended bowel loops without wall thickening or obstruction.
+
+REPRODUCTIVE:
+Prostate is normal in size for age.
+
+URINARY:
+Bladder is partially distended and unremarkable.
+
+OTHER:
+No free air or fluid in the abdomen or pelvis.
+
+LYMPH NODES:
+Small retroperitoneal lymph nodes, none meeting criteria for pathologic enlargement.
+
+BONES AND SOFT TISSUES:
+No suspicious lytic or blastic osseous lesions. Mild degenerative changes of the thoracic and lumbar spine.
+
+IMPRESSION:
+1. Spiculated 3.2 cm mass in the right upper lobe with small pulmonary nodules bilaterally, highly suspicious for primary lung malignancy with intrapulmonary metastases.
+2. Enlarged right paratracheal and subcarinal lymph nodes, concerning for nodal metastases.
+3. Right adrenal nodule with imaging characteristics indeterminate for metastasis versus adenoma. Recommend dedicated adrenal protocol CT or PET/CT for further characterization.
+4. Small right pleural effusion.
+
+RECOMMENDATION: Tissue diagnosis recommended. PET/CT for staging. Follow-up imaging to assess treatment response.
+
+Electronically signed by:
+[Radiologist Name], MD
+Board Certified in Diagnostic Radiology
+Date/Time: January 15, 2024 14:32

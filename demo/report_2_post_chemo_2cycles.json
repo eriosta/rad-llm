@@ -1,0 +1,148 @@
+{
+  "report_metadata": {
+    "report_id": "RPT-002",
+    "exam_date": "2024-03-18",
+    "exam_type": "CT Chest, Abdomen, and Pelvis with IV Contrast",
+    "comparison": "2024-01-15",
+    "clinical_context": "Restaging after 2 cycles carboplatin/pemetrexed",
+    "interval_days": 63
+  },
+  "patient_info": {
+    "age": 62,
+    "sex": "M",
+    "clinical_history": "Stage IV NSCLC (adenocarcinoma), on chemotherapy"
+  },
+  "lesions": [
+    {
+      "lesion_id": "L001",
+      "location": "Right upper lobe, anterior segment",
+      "type": "Primary mass",
+      "measurements": {
+        "max_diameter_cm": 2.4,
+        "perpendicular_diameter_cm": 2.0,
+        "volume_cm3": 8.1
+      },
+      "characteristics": "Spiculated with pleural retraction",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -25.0,
+        "absolute_change_cm": -0.8,
+        "response": "Partial response"
+      }
+    },
+    {
+      "lesion_id": "L002",
+      "location": "Left lower lobe, lateral basal segment",
+      "type": "Pulmonary nodule",
+      "measurements": {
+        "max_diameter_cm": 0.4
+      },
+      "characteristics": "Solid nodule",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -33.3,
+        "absolute_change_cm": -0.2,
+        "response": "Decreased"
+      }
+    },
+    {
+      "lesion_id": "L003",
+      "location": "Right lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.3,
+        "count": "Fewer, several not visualized"
+      },
+      "characteristics": "Multiple small nodules",
+      "status": "Decreased",
+      "change_from_prior": {
+        "response": "Some resolved, remainder decreased"
+      }
+    },
+    {
+      "lesion_id": "L004",
+      "location": "Left lung, multiple",
+      "type": "Pulmonary nodules",
+      "measurements": {
+        "max_diameter_cm": 0.3,
+        "count": "Fewer, several not visualized"
+      },
+      "characteristics": "Multiple small nodules",
+      "status": "Decreased",
+      "change_from_prior": {
+        "response": "Some resolved, remainder decreased"
+      }
+    },
+    {
+      "lesion_id": "L005",
+      "location": "Right paratracheal (station 4R)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.3,
+        "short_axis_cm": 0.9
+      },
+      "characteristics": "Decreased in size",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -27.8,
+        "absolute_change_cm": -0.5,
+        "response": "Partial response"
+      }
+    },
+    {
+      "lesion_id": "L006",
+      "location": "Subcarinal (station 7)",
+      "type": "Lymph node",
+      "measurements": {
+        "long_axis_cm": 1.2,
+        "short_axis_cm": 0.8
+      },
+      "characteristics": "Decreased in size",
+      "status": "Decreased",
+      "change_from_prior": {
+        "percent_change": -20.0,
+        "absolute_change_cm": -0.3,
+        "response": "Decreased"
+      }
+    },
+    {
+      "lesion_id": "L007",
+      "location": "Right adrenal gland",
+      "type": "Adrenal nodule",
+      "measurements": {
+        "max_diameter_cm": 1.2
+      },
+      "characteristics": "Stable, likely metastasis",
+      "hounsfield_units": {
+        "pre_contrast": 34,
+        "post_contrast": 66
+      },
+      "status": "Stable",
+      "change_from_prior": {
+        "percent_change": 0.0,
+        "response": "Stable disease"
+      }
+    },
+    {
+      "lesion_id": "L008",
+      "location": "Right pleural space",
+      "type": "Pleural effusion",
+      "measurements": {
+        "max_depth_cm": 0.0
+      },
+      "characteristics": "Resolved",
+      "status": "Resolved",
+      "change_from_prior": {
+        "response": "Complete resolution"
+      }
+    }
+  ],
+  "response_assessment": {
+    "overall_response": "Partial Response (PR)",
+    "recist_criteria": {
+      "target_lesions_change": -25.0,
+      "new_lesions": false,
+      "non_target_progression": false
+    }
+  }
+}
