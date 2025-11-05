@@ -14,8 +14,8 @@ venv/
 qdrant_storage/
 
 # Outputs (keep structure but not data)
-outputs/*.json
-outputs/*.csv
+# outputs/*.json
+# outputs/*.csv
 
 # Figures (keep structure but not generated files)
 figures/*.png

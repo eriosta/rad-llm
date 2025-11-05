@@ -1,0 +1,6 @@
+gt_lesion_id,gt_location,gt_type,gt_sizes,gt_trend,matched_trajectory,gen_location,gen_sizes,gen_trend,match_score,location_match,trend_match
+L001,"Right upper lobe, anterior segment",Primary adenocarcinoma,32.0|24.0|18.0|18.0|26.0,stable,T001,"Right upper lobe, anterior segment",32.0|24.0|18.0|18.0|26.0,stable,1.0,YES,YES
+L002,"Left lower lobe, lateral basal segment",Pulmonary metastasis,6.0|4.0|3.0|3.0|7.0,stable,T002,"Left lower lobe, lateral basal segment",6.0|4.0|3.0|3.0|7.0,stable,1.0,YES,YES
+L005,Right paratracheal (Station 4R),Lymph node metastasis,18.0|13.0|10.0|10.0|21.0,stable,T005,Right paratracheal (station 4R),18.0|13.0|10.0|10.0|21.0,stable,1.0,YES,YES
+L006,Subcarinal (Station 7),Lymph node,15.0|12.0|9.0|9.0|18.0,stable,T006,Subcarinal (station 7),15.0|12.0|9.0|9.0|9.0,decreasing,1.0,YES,NO
+L007,Right adrenal gland,Adrenal metastasis,12.0|10.0|8.0|8.0|18.0,increasing,T007,Right adrenal gland,12.0|10.0|10.0|10.0|23.0,increasing,1.0,YES,YES

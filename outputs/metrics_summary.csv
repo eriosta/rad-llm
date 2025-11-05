@@ -1,0 +1,12 @@
+Total Ground Truth Lesions,5
+Matched Trajectories,5
+Perfect Location Match,5
+Recall,100.00%
+Location Accuracy,100.00%
+Trend Accuracy,80.00%
+Mean Absolute Error (mm),0.72
+Median Absolute Error (mm),0.00
+Mean Percent Error,5.1%
+Within 1mm,84.00%
+Within 10%,84.00%
+Overall Quality Score,94.00%

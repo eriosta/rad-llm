@@ -1,0 +1,451 @@
+{
+  "metadata": {
+    "approach": "direct_llm",
+    "radgraph_used": false,
+    "n_patients": 1,
+    "n_reports": 5,
+    "n_trajectories": 18
+  },
+  "trajectories": {
+    "DEMO_PATIENT": [
+      {
+        "trajectory_id": "T001",
+        "lesion_ids": [
+          "L001"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Right upper lobe, anterior segment",
+        "status": "Stable to Increased",
+        "trend": "Initially decreased then increased",
+        "size_progression": [
+          32.0,
+          24.0,
+          18.0,
+          18.0,
+          26.0
+        ],
+        "reasoning": "The primary mass has shown a pattern of initially decreasing in size and then increasing in size."
+      },
+      {
+        "trajectory_id": "T002",
+        "lesion_ids": [
+          "L002"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Left lower lobe, lateral basal segment",
+        "status": "Decreased to Increased",
+        "trend": "Increased in size over time",
+        "size_progression": [
+          6.0,
+          4.0,
+          3.0,
+          3.0,
+          7.0
+        ],
+        "reasoning": "The pulmonary nodule has shown a significant increase in size from the initial findings."
+      },
+      {
+        "trajectory_id": "T003",
+        "lesion_ids": [
+          "L003"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Multiple pulmonary nodules in Right lung",
+        "status": "Resolved to New/Progressed",
+        "trend": "New nodules developed",
+        "size_progression": [
+          40.0,
+          30.0,
+          0.0,
+          0.0,
+          50.0
+        ],
+        "reasoning": "Initially multiple small nodules were present, but they resolved at Timepoint 2 and new nodules appeared at Timepoint 4."
+      },
+      {
+        "trajectory_id": "T004",
+        "lesion_ids": [
+          "L004"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Multiple pulmonary nodules in Left lung",
+        "status": "Resolved to New/Progressed",
+        "trend": "New nodules developed",
+        "size_progression": [
+          50.0,
+          30.0,
+          0.0,
+          0.0,
+          60.0
+        ],
+        "reasoning": "Initially multiple small nodules were present, but they resolved at Timepoint 2 and new nodules appeared at Timepoint 4."
+      },
+      {
+        "trajectory_id": "T005",
+        "lesion_ids": [
+          "L005"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Right paratracheal (station 4R)",
+        "status": "Decreased to Markedly Enlarged",
+        "trend": "Markedly increased in size",
+        "size_progression": [
+          18.0,
+          13.0,
+          10.0,
+          10.0,
+          21.0
+        ],
+        "reasoning": "The lymph node showed a marked increase in size from the initial findings."
+      },
+      {
+        "trajectory_id": "T006",
+        "lesion_ids": [
+          "L006"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Subcarinal (station 7)",
+        "status": "Decreased to Normal Size",
+        "trend": "Normal size, stable",
+        "size_progression": [
+          15.0,
+          12.0,
+          9.0,
+          9.0,
+          9.0
+        ],
+        "reasoning": "The lymph node normalized in size after initially decreasing."
+      },
+      {
+        "trajectory_id": "T007",
+        "lesion_ids": [
+          "L007"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Right adrenal gland",
+        "status": "Stable to Markedly Enlarged",
+        "trend": "Markedly increased in size",
+        "size_progression": [
+          12.0,
+          10.0,
+          10.0,
+          10.0,
+          23.0
+        ],
+        "reasoning": "The adrenal nodule showed a marked increase in size from the initial findings."
+      },
+      {
+        "trajectory_id": "T008",
+        "lesion_ids": [
+          "L008"
+        ],
+        "timepoints": [
+          0,
+          1,
+          2,
+          3,
+          4
+        ],
+        "study_dates": [
+          "2024-01-15",
+          "2024-03-18",
+          "2024-05-22",
+          "2024-08-28",
+          "2025-01-30"
+        ],
+        "anatomy": "Right pleural space",
+        "status": "New/Recurred",
+        "trend": "Recurred",
+        "size_progression": [
+          0.0,
+          0.0,
+          0.0,
+          0.0,
+          7.0
+        ],
+        "reasoning": "Pleural effusion was initially present but recurred as a moderate effusion."
+      },
+      {
+        "trajectory_id": "T009",
+        "lesion_ids": [
+          "L009"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Left pleural space",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          0.0
+        ],
+        "reasoning": "A new small effusion was noted in the left pleural space."
+      },
+      {
+        "trajectory_id": "T010",
+        "lesion_ids": [
+          "L010"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Right middle lobe",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          8.0
+        ],
+        "reasoning": "A new pulmonary nodule was noted in the right middle lobe."
+      },
+      {
+        "trajectory_id": "T011",
+        "lesion_ids": [
+          "L011"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Left hilum (station 10L)",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          14.0
+        ],
+        "reasoning": "A new enlarged lymph node was noted in the left hilum."
+      },
+      {
+        "trajectory_id": "T012",
+        "lesion_ids": [
+          "L012"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Liver segment VII",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          21.0
+        ],
+        "reasoning": "A new hepatic metastasis was noted in liver segment VII."
+      },
+      {
+        "trajectory_id": "T013",
+        "lesion_ids": [
+          "L013"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Liver segment V",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          13.0
+        ],
+        "reasoning": "A new hepatic metastasis was noted in liver segment V."
+      },
+      {
+        "trajectory_id": "T014",
+        "lesion_ids": [
+          "L014"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Left adrenal gland",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          11.0
+        ],
+        "reasoning": "A new adrenal nodule was noted in the left adrenal gland."
+      },
+      {
+        "trajectory_id": "T015",
+        "lesion_ids": [
+          "L015"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "T8 vertebral body",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          0.0
+        ],
+        "reasoning": "A new osseous metastasis was noted in the T8 vertebral body."
+      },
+      {
+        "trajectory_id": "T016",
+        "lesion_ids": [
+          "L016"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Para-aortic region",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          16.0
+        ],
+        "reasoning": "A new enlarged retroperitoneal node was noted in the para-aortic region."
+      },
+      {
+        "trajectory_id": "T017",
+        "lesion_ids": [
+          "L017"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Peritoneal cavity",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          0.0
+        ],
+        "reasoning": "New ascites was noted in the peritoneal cavity."
+      },
+      {
+        "trajectory_id": "T018",
+        "lesion_ids": [
+          "L018"
+        ],
+        "timepoints": [
+          4
+        ],
+        "study_dates": [
+          "2025-01-30"
+        ],
+        "anatomy": "Pericardial space",
+        "status": "New",
+        "trend": "New",
+        "size_progression": [
+          0.0
+        ],
+        "reasoning": "New pericardial effusion was noted."
+      }
+    ]
+  }
+}
